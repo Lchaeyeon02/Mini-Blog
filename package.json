@@ -1,6 +1,7 @@
 {
   "name": "mini-blog",
   "private": true,
+  "homepage": "https://lchaeyeon02.github.io/Mini-Blog",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
